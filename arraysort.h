@@ -69,14 +69,4 @@ int pop_min(list *ls);
  */
 void print(list *ls);
 
-/**
- * Identical to get_min_value(), but implemented in ARM assembly
- * (use given file get_min_ARM.s)
- */
-int get_min_ARM(list *ls);
 
-/**
- * Identical to get_max_value(), but implemented in ARM assembly
- * (use given file get_max_ARM.s)
- */
-int get_max_ARM(list *ls);
