@@ -69,4 +69,4 @@ int pop_min(list *ls);
  */
 void print(list *ls);
 
-
+/* Should have had a deleteList */
